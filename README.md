@@ -1,4 +1,4 @@
-###La siguiente practica tiene como objetivo, poner en practica lo visto a
+### La siguiente practica tiene como objetivo, poner en practica lo visto a
 este momento en el Modulo 6, por tanto se requiere que
 1. Diseñe una landing Page, como almenos la siguientes secciones
 a. Home
